@@ -1,0 +1,13 @@
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/UnityEngine.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/UnityEditor.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Mono.Cecil.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Unity.DataContract.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/administrador/Desktop/Felpudo-Kazooie/Temp/bin/Debug/Mono.Cecil.Mdb.dll
